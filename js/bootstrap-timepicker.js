@@ -30,7 +30,7 @@
     this.appendWidgetTo = options.appendWidgetTo;
     this.showWidgetOnAddonClick = options.showWidgetOnAddonClick;
     this.iconChevronUp = options.iconChevronUp || 'icon-chevron-up';
-    this.iconChevronUpDown = options.iconChevronDown || 'icon-chevron-down';
+    this.iconChevronDown = options.iconChevronDown || 'icon-chevron-down';
 
     this._init();
   };
